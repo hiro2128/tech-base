@@ -1,3 +1,4 @@
+「パスワード付簡易掲示板」
 <html>
      <head>
     <meta charset="UTF=8">
